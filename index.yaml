@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  anderbchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-01T12:27:50.505777183+02:00"
+    description: A Helm chart for Kubernetes
+    digest: ebe7dcd48293dd32afd895f4bca79ec7683b61625ef9c8dcd0502c27248f7d6a
+    name: anderbchart
+    type: application
+    urls:
+    - charts/anderbchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-01T12:27:50.505219377+02:00"
